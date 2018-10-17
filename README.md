@@ -1,3 +1,3 @@
-# programs-4-lyfe
+# RubyPrograms
 
 This is a repository for programs written in Ruby.
